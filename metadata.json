@@ -1,0 +1,6 @@
+{
+  "name": "TT Manager Pro",
+  "description": "Sistema completo de gestão de tênis de mesa",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
